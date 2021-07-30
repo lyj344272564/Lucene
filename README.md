@@ -1,7 +1,7 @@
 # Lucene
 
 
-![image-20210731012704516](D:\Java\luceneDemo\image\image-20210731012704516.png)
+![image-20210731012704516](https://github.com/lyj344272564/Lucene/blob/main/image/image-20210731012704516.png)
 
 ![image-20210731012732987](D:\Java\luceneDemo\image\image-20210731012732987.png)
 
