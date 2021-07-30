@@ -3,7 +3,7 @@
 
 ![image-20210731012704516](https://github.com/lyj344272564/Lucene/blob/main/image/image-20210731012704516.png)
 
-![image-20210731012732987](D:\Java\luceneDemo\image\image-20210731012732987.png)
+![image-20210731012732987](https://github.com/lyj344272564/Lucene/blob/main/image/image-20210731012732987.png)
 
 
 
@@ -37,8 +37,8 @@
 
 **Lucene架构**：
 
-![image-20210731013107300](D:\Java\luceneDemo\image\image-20210731013107300.png)
+![image-20210731013107300](https://github.com/lyj344272564/Lucene/blob/main/image/image-20210731013107300.png)
 
 **索引和搜索流程图**
 
-![image-20210731013133090](D:\Java\luceneDemo\image\image-20210731013133090.png)
+![image-20210731013133090](https://github.com/lyj344272564/Lucene/blob/main/image/image-20210731013133090.png)
